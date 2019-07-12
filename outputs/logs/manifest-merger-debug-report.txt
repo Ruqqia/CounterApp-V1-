@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/6a4a0300627b09f2f1583fbc4ccb4d5c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/rarif/.gradle/caches/transforms-2/files-2.1/443c2c64ba2dd2936c447dccde54edc8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/2eb02eb5aca3db9680f6e1b9be3783aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/e424b7269767b31067b45fa196ad2de8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/35334408cb008babdb9babc8395ad178/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/59cc74f82858e2954425dca449df68f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/9e853fe7f949a511a8eb797f1e6453d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/41bd0c34823f23397f0bb3917998e168/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/3fa499eeb2ec0c4346bb2ede19dd868b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/fad7b0c2ac2d247e35032da01633c890/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/30ddb6a386077582b80e3c3616574732/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/0a5d5568c65c35e210e05256c76c69da/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/5b09f88a26344a61736ddea19fac3105/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/140e1dd354ed8325df6efff33a14bcab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/0b96ea2845685dbd0c8043569164f441/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/68320068b7de9b2737227709294ac75d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/e4f26f090e6e59f64efa6339c9558797/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/6151d2683cf84bd3c1f69d2d2016ae3b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/rarif/.gradle/caches/transforms-2/files-2.1/bb3659ef977b2c2630630e140023420d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/8b26c6451b26bd6a4455c261cf1f9770/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/6d49bbe6d0994a4f7a084386fb27148e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/75665e8806146ef2853a2415c35b8180/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/rarif/.gradle/caches/transforms-2/files-2.1/ce20b84da644dc35e95e8846602b0645/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/rarif/.gradle/caches/transforms-2/files-2.1/8ee7b4aec5790f77f723f0a172f1db79/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/rarif/.gradle/caches/transforms-2/files-2.1/4d66a62b4a9c985359ead1ab6c6fbdaf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/rarif/.gradle/caches/transforms-2/files-2.1/d21e2849934402139c85ff7629fbd12b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/0c5281515f2593393adea6f5f659a798/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/rarif/.gradle/caches/transforms-2/files-2.1/443c2c64ba2dd2936c447dccde54edc8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/rarif/.gradle/caches/transforms-2/files-2.1/443c2c64ba2dd2936c447dccde54edc8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/68320068b7de9b2737227709294ac75d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/68320068b7de9b2737227709294ac75d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/e4f26f090e6e59f64efa6339c9558797/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/e4f26f090e6e59f64efa6339c9558797/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/68320068b7de9b2737227709294ac75d/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml:7:9-38
+	android:allowBackup
+		ADDED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.myapplication.MainActivity
+ADDED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/6a4a0300627b09f2f1583fbc4ccb4d5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/6a4a0300627b09f2f1583fbc4ccb4d5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/rarif/.gradle/caches/transforms-2/files-2.1/443c2c64ba2dd2936c447dccde54edc8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/rarif/.gradle/caches/transforms-2/files-2.1/443c2c64ba2dd2936c447dccde54edc8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/2eb02eb5aca3db9680f6e1b9be3783aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/2eb02eb5aca3db9680f6e1b9be3783aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/e424b7269767b31067b45fa196ad2de8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/e424b7269767b31067b45fa196ad2de8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/35334408cb008babdb9babc8395ad178/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/35334408cb008babdb9babc8395ad178/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/59cc74f82858e2954425dca449df68f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/59cc74f82858e2954425dca449df68f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/9e853fe7f949a511a8eb797f1e6453d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/9e853fe7f949a511a8eb797f1e6453d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/41bd0c34823f23397f0bb3917998e168/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/41bd0c34823f23397f0bb3917998e168/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/3fa499eeb2ec0c4346bb2ede19dd868b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/3fa499eeb2ec0c4346bb2ede19dd868b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/fad7b0c2ac2d247e35032da01633c890/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/fad7b0c2ac2d247e35032da01633c890/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/30ddb6a386077582b80e3c3616574732/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/30ddb6a386077582b80e3c3616574732/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/0a5d5568c65c35e210e05256c76c69da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/0a5d5568c65c35e210e05256c76c69da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/5b09f88a26344a61736ddea19fac3105/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/5b09f88a26344a61736ddea19fac3105/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/140e1dd354ed8325df6efff33a14bcab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/140e1dd354ed8325df6efff33a14bcab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/0b96ea2845685dbd0c8043569164f441/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/0b96ea2845685dbd0c8043569164f441/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/68320068b7de9b2737227709294ac75d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/68320068b7de9b2737227709294ac75d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/e4f26f090e6e59f64efa6339c9558797/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/e4f26f090e6e59f64efa6339c9558797/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/6151d2683cf84bd3c1f69d2d2016ae3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/6151d2683cf84bd3c1f69d2d2016ae3b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/rarif/.gradle/caches/transforms-2/files-2.1/bb3659ef977b2c2630630e140023420d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/rarif/.gradle/caches/transforms-2/files-2.1/bb3659ef977b2c2630630e140023420d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/8b26c6451b26bd6a4455c261cf1f9770/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/8b26c6451b26bd6a4455c261cf1f9770/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/6d49bbe6d0994a4f7a084386fb27148e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/6d49bbe6d0994a4f7a084386fb27148e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/75665e8806146ef2853a2415c35b8180/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/75665e8806146ef2853a2415c35b8180/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/rarif/.gradle/caches/transforms-2/files-2.1/ce20b84da644dc35e95e8846602b0645/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/rarif/.gradle/caches/transforms-2/files-2.1/ce20b84da644dc35e95e8846602b0645/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/rarif/.gradle/caches/transforms-2/files-2.1/8ee7b4aec5790f77f723f0a172f1db79/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/rarif/.gradle/caches/transforms-2/files-2.1/8ee7b4aec5790f77f723f0a172f1db79/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/rarif/.gradle/caches/transforms-2/files-2.1/4d66a62b4a9c985359ead1ab6c6fbdaf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/rarif/.gradle/caches/transforms-2/files-2.1/4d66a62b4a9c985359ead1ab6c6fbdaf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/rarif/.gradle/caches/transforms-2/files-2.1/d21e2849934402139c85ff7629fbd12b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/rarif/.gradle/caches/transforms-2/files-2.1/d21e2849934402139c85ff7629fbd12b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/0c5281515f2593393adea6f5f659a798/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/rarif/.gradle/caches/transforms-2/files-2.1/0c5281515f2593393adea6f5f659a798/AndroidManifest.xml:20:5-44
+INJECTED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rarif/Repositorio/DigitalCounter/app/src/main/AndroidManifest.xml
